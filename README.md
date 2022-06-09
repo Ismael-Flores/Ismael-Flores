@@ -1,4 +1,4 @@
-Hello! Im Ismael, a computer enthusiast! I hold a Bachelors in Computer Science from Cal State Univeristy San Bernardino, where I studied various areas of Computer Science 
+Hello! Im Ismael Flores, a computer enthusiast! I hold a Bachelors in Computer Science from Cal State Univeristy San Bernardino, where I studied various areas of Computer Science 
 such as programming, AI, and database etc.  
 
 <!---
