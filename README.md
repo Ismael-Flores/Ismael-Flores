@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="left">  Hello! Im Ismael Flores, a computer enthusiast!</h1>
 - I hold a Bachelors in Computer Science from Cal State Univeristy San Bernardino, where I studied various areas of Computer Science 
 such as programming, AI, and database etc.  
